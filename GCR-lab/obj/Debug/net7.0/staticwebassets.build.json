@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LRr8HD48QEj3Pt9If3EytGpathb1DBdYrgMnXjQuXpU=",
+  "Source": "GCR-lab",
+  "BasePath": "_content/GCR-lab",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
